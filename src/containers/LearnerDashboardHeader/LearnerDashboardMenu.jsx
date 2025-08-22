@@ -19,7 +19,7 @@ const getLearnerHeaderMenu = (
     },
     {
       type: 'item',
-      href: '`${urls.learningPathsUrl()}`',
+      href: `${urls.learningPathsUrl()}`,
       content: formatMessage(messages.learningPaths),
       isActive: true,
     },
