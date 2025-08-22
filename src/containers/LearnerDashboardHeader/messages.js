@@ -56,6 +56,11 @@ const messages = defineMessages({
     defaultMessage: 'Programs',
     description: 'Header link for switching to program page.',
   },
+  learningPaths: {
+    id: 'learnerVariantDashboard.learningPaths',
+    defaultMessage: 'Learning Paths',
+    description: 'Header link for switching to learning paths page.',
+  },
   discoverNew: {
     id: 'learnerVariantDashboard.discoverNew',
     defaultMessage: 'Discover New',
